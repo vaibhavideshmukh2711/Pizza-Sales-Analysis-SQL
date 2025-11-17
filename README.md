@@ -2,7 +2,7 @@
 
 ## Project Objective 
 
-##🍕 Pizza Sales Analysis — SQL Project
+## 🍕 Pizza Sales Analysis — SQL Project
 
 This project analyzes a pizza restaurant’s sales data from Kaggle using SQL. The goal is to understand customer buying patterns, revenue performance, and product popularity.
 Key insights include total sales, best-selling pizzas, peak order times, revenue contribution by categories, and monthly/weekly performance trends.
