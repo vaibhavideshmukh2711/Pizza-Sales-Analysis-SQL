@@ -33,7 +33,7 @@ Advanced:
 - Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
 ## Pizza Sales Dashboard
-- < a href= "https://github.com/vaibhavideshmukh2711/Pizza-Sales-Analysis-dashboard" > PizzaSales_Dashboard_Analysis </a>
+- <a href= "https://github.com/vaibhavideshmukh2711/Pizza-Sales-Analysis-dashboard"> PizzaSales_Dashboard_Analysis </a>
 
 ## Project Insight
 
